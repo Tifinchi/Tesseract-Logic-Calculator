@@ -2,7 +2,7 @@
 
 Tiffany Taylor (Tifinchi), Boise State University. Calculations, literature search and drafting with Claude (Anthropic); section 2 of the paper states who originated each piece.
 
-Deposit: OSF project *Tesseract Logic Calculator*, DOI [10.17605/OSF.IO/C9W7K](https://doi.org/10.17605/OSF.IO/C9W7K). This repository mirrors it.
+Deposit: OSF project *Tesseract Logic Calculator*, DOI [10.17605/OSF.IO/C9W7K](https://doi.org/10.17605/OSF.IO/C9W7K), which serves this repository through OSF's GitHub add-on. In the repository the files below sit under `tlc-deposit-v46/tlc-deposit/`; the root carries copies of this README and the PDF.
 
 ## Abstract
 
@@ -16,7 +16,7 @@ The Tesseract Logic Calculator is the author's system for computing with a cube 
 | --- | --- |
 | `Tesseract Logic Calculator.pdf` | The paper as a PDF (230 pages, US letter), printed from the Markdown below with the equations typeset and the three figures in place. |
 | `Tesseract Logic Calculator.md` | The paper, version of 11 October 2026: 23 sections, 105 tables, 541 references. This is the source; the three figures appear as captions. |
-| `pre-registration.md` | The nine frozen predictions, their definitions, the scoring rule and the script hashes. Deposited unchanged; SHA-256 `624b271c504c25191447350a1ffbb90ade7f6da2ee7cf752dd109588ec8305df`, as recorded in section 18.1 of the paper. The OSF timestamp of this file is the freeze. |
+| `pre-registration.md` | The nine frozen predictions, their definitions, the scoring rule and the script hashes. Deposited unchanged; SHA-256 `624b271c504c25191447350a1ffbb90ade7f6da2ee7cf752dd109588ec8305df`, as recorded in section 18.1 of the paper. The freeze is dated by two public records: the OSF project's activity log, which shows this file added to OSF Storage on 2026-10-12 at 04:58:55 UTC, and the repository's history, which carries the identical file from commit `f139fc8` (2026-10-12, 05:04:36 UTC). |
 | `calculator/Tesseract Logic Calculator.html` | The calculator, Version 43: one self-contained page that recomputes every committed number live in the browser (open it locally; the only outside resource is a web font, and the page works without it). |
 | `scripts/` | The 47 scripts of Table 100 of the paper (46 Python, 1 JavaScript), named and hashed as in that table. |
 | `scripts/v43/`, `scripts/v41/` | `bench43.js`, `numerics.py` and the JavaScript modules they time and check (the calculator's law-of-motion, Higgs and overlap engines, old and new). |
