@@ -1,0 +1,15 @@
+merc_both  reference     5.01866472687413042e-7  calculator    5.0186647268741281e-7  relative difference 4.62e-16
+merc_time  reference     1.67288803025372111e-7  calculator    1.6728880302537217e-7  relative difference 3.53e-16
+s200_time  reference      0.0344702142660833246  calculator     0.034470214266083321  relative difference 1.06e-16
+s200_both  reference       0.106216128652631751  calculator      0.10621612865263177  relative difference 1.76e-16
+e95_time   reference     6.36092037117780553e-6  calculator 0.0000063609203711777997  relative difference 9.17e-16
+e95_both   reference   0.0000190828572373970572  calculator  0.000019082857237397042  relative difference 7.97e-16
+b1_time    reference       0.875598082162362365  calculator      0.87559808216236246  relative difference 1.09e-16
+b1_both    reference        1.75120127307335503  calculator       1.7512012730733555  relative difference 2.7e-16
+b10_both   reference       0.175119142051751278  calculator      0.17511914205175139  relative difference 6.39e-16
+b9e4_both  reference        931732.246766308225  calculator       931732.24676630239  relative difference 6.26e-15
+b1e5_time  reference        141512.163899687523  calculator       141512.16389968764  relative difference 8.27e-16
+WW         reference    0.000854921781873089624  calculator   0.00085492178190723668  relative difference 3.99e-11
+ZZ         reference    0.000106629729619435505  calculator   0.00010662972961861556  relative difference 7.69e-12
+motion: largest relative difference 6.26e-15
+Mercury per century: both legs 42.9807236394, the time leg 14.3269060639 arcsec

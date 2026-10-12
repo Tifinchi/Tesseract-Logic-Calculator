@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Tesseract Logic Calculator"
+authors:
+  - family-names: Taylor
+    given-names: Tiffany
+    alias: Tifinchi
+    affiliation: Boise State University
+date-released: 2026-10-11
+doi: 10.17605/OSF.IO/C9W7K
+repository-code: https://github.com/Tifinchi/Tesseract-Logic-Calculator
+license: CC-BY-SA-4.0
