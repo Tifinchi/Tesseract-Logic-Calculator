@@ -14,7 +14,7 @@ The Tesseract Logic Calculator is the author's system for computing with a cube 
 
 | Path | What it is |
 | --- | --- |
-| `Tesseract Logic Calculator.pdf` | The paper as a PDF, exported by the author from the Markdown below; regenerate it whenever the Markdown changes. |
+| `Tesseract Logic Calculator.pdf` | The paper as a PDF (230 pages, US letter), printed from the Markdown below with the equations typeset and the three figures in place. |
 | `Tesseract Logic Calculator.md` | The paper, version of 11 October 2026: 23 sections, 105 tables, 541 references. This is the source; the three figures appear as captions. |
 | `pre-registration.md` | The nine frozen predictions, their definitions, the scoring rule and the script hashes. Deposited unchanged; SHA-256 `624b271c504c25191447350a1ffbb90ade7f6da2ee7cf752dd109588ec8305df`, as recorded in section 18.1 of the paper. The OSF timestamp of this file is the freeze. |
 | `calculator/Tesseract Logic Calculator.html` | The calculator, Version 43: one self-contained page that recomputes every committed number live in the browser (open it locally; the only outside resource is a web font, and the page works without it). |
